@@ -22,6 +22,7 @@ public class DCLSingleton {
                 }
             }
         }
+        return singleton;
     }
 
 }
