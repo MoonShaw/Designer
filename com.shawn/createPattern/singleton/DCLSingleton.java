@@ -1,4 +1,4 @@
-package Singleton;
+package createPattern.singleton;
 
 /**
  * Created by shawn on 2/26/16.
