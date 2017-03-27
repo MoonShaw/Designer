@@ -11,15 +11,15 @@ public class FactoryPatternDemo {
         ShapeFactory shapeFactory = new ShapeFactory();
 
         // 画圆形
-        Shape circleShape = shapeFactory.drwapShape(Circle.class);
+        Shape circleShape = shapeFactory.drawShape(Circle.class);
         circleShape.draw();
 
         //画三角形
-        Shape rectangleShape = shapeFactory.drwapShape(Rectangle.class);
+        Shape rectangleShape = shapeFactory.drawShape(Rectangle.class);
         rectangleShape.draw();
 
         //画正方形
-        Shape SquareShape = shapeFactory.drwapShape(Square.class);
+        Shape SquareShape = shapeFactory.drawShape(Square.class);
         SquareShape.draw();
 
 

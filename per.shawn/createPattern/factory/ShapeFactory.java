@@ -7,7 +7,7 @@ package createPattern.factory;
  */
 public class ShapeFactory {
 
-    public <T extends Shape> T drwapShape(Class<T> c){
+    public <T extends Shape> T drawShape(Class<T> c){
 
 
         Shape shape = null;
