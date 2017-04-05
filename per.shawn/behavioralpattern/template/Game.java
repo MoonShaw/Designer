@@ -6,6 +6,10 @@ package behavioralpattern.template;
  */
 public abstract class Game {
 
+    /**
+     * 基本最好使用 protected 方法,
+     * 实现方法最好用final修饰
+     */
     //基本方法
     protected abstract void initalize();
 
