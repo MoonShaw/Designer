@@ -1,6 +1,4 @@
-package structuralpattern.prototype;
-
-import sun.security.provider.SHA;
+package creationalpattern.prototype;
 
 import java.util.ArrayList;
 

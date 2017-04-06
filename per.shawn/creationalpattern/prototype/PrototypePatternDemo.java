@@ -1,4 +1,4 @@
-package structuralpattern.prototype;
+package creationalpattern.prototype;
 
 /**
  * Created by shawn on 2017/4/6.

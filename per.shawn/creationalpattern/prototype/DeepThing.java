@@ -1,4 +1,4 @@
-package structuralpattern.prototype;
+package creationalpattern.prototype;
 
 import java.util.ArrayList;
 
